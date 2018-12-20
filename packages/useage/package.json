@@ -1,0 +1,12 @@
+{
+  "name": "useage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hook":"1.0.0"
+  },
+  "scripts": {
+    "s":"node app"
+  }
+}
