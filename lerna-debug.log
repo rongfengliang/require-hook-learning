@@ -41,7 +41,7 @@
 12 error npm WARN Local package.json exists, but node_modules missing, did you mean to install?
 12 error
 12 error npm ERR! A complete log of this run can be found in:
-12 error npm ERR!     /Users/dalong/.npm/_logs/2018-12-20T14_21_01_891Z-debug.log
+12 error npm ERR!     /Users/dalong/.npm/_logs/2018-12-20T14_25_43_331Z-debug.log
 12 error
 12 error
 12 error > useage@1.0.0 s /Users/dalong/mylearning/markdown-require-project/packages/useage
